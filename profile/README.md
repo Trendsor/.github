@@ -27,15 +27,3 @@ Here’s the **Kandinsky** suite of projects, all working together to tackle tim
 | <a href="https://github.com/Trendsor/kandinsky-exchange-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-exchange-api&theme=radical" alt="kandinsky-exchange-api"></a> | <a href="https://github.com/Trendsor/kandinsky-trading-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-trading-engine&theme=radical" alt="kandinsky-trading-engine"></a> | <a href="https://github.com/Trendsor/kandinsky-data-management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-data-management&theme=radical" alt="kandinsky-data-management"></a> |
 
 ---
-
-### Explanation:
-1. **Uniform Color Theme**:
-   All repositories use the `radical` theme for consistency.
-
-2. **Side-by-Side Layout**:
-   The repositories are displayed in a table using Markdown's table syntax. Each cell contains a card linking to a repository.
-
-3. **Responsive Design**:
-   If the table overflows, it will wrap in most Markdown renderers (e.g., GitHub).
-
----
