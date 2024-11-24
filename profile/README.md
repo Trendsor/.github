@@ -14,6 +14,6 @@ Because time flies, and so do trends. At Trendsor, we believe in making time ser
 
 <p align="left">
   <a href="https://github.com/Trendsor/kandinsky-simulator">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Trendsor&repo=kandinsky-simulator&show_icons=true&theme=radical" alt="Stats for kandinsky-simulator">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-simulator&theme=radical" alt="Dynamic Stats for kandinsky-simulator">
   </a>
 </p>
