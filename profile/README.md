@@ -15,54 +15,29 @@ Because time flies, and so do trends. At Trendsor, we believe in making time ser
 
 ## Main Projects
 
-### Kandinsky Simulator
-<p align="left">
-  <a href="https://github.com/Trendsor/kandinsky-simulator">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-simulator&theme=radical" alt="Dynamic Stats for kandinsky-simulator">
-  </a>
-</p>
+### Kandinsky
+Here’s the **Kandinsky** suite of projects, all working together to tackle time series challenges, from frontend to infrastructure:
+
+| Kandinsky Simulator                                                                                                     | Kandinsky Frontend                                                                                                      | Kandinsky Infrastructure                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://github.com/Trendsor/kandinsky-simulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-simulator&theme=radical" alt="kandinsky-simulator"></a> | <a href="https://github.com/Trendsor/kandinsky-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-frontend&theme=radical" alt="kandinsky-frontend"></a> | <a href="https://github.com/Trendsor/kandinsky-infrastructure"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-infrastructure&theme=radical" alt="kandinsky-infrastructure"></a> |
+
+| Kandinsky Exchange API                                                                                                  | Kandinsky Trading Engine                                                                                                 | Kandinsky Data Management                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://github.com/Trendsor/kandinsky-exchange-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-exchange-api&theme=radical" alt="kandinsky-exchange-api"></a> | <a href="https://github.com/Trendsor/kandinsky-trading-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-trading-engine&theme=radical" alt="kandinsky-trading-engine"></a> | <a href="https://github.com/Trendsor/kandinsky-data-management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-data-management&theme=radical" alt="kandinsky-data-management"></a> |
 
 ---
 
-### Kandinsky Frontend
-<p align="left">
-  <a href="https://github.com/Trendsor/kandinsky-frontend">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-frontend&theme=tokyonight" alt="Dynamic Stats for kandinsky-frontend">
-  </a>
-</p>
+### Explanation:
+1. **Uniform Color Theme**:
+   All repositories use the `radical` theme for consistency.
+
+2. **Side-by-Side Layout**:
+   The repositories are displayed in a table using Markdown's table syntax. Each cell contains a card linking to a repository.
+
+3. **Responsive Design**:
+   If the table overflows, it will wrap in most Markdown renderers (e.g., GitHub).
 
 ---
 
-### Kandinsky Infrastructure
-<p align="left">
-  <a href="https://github.com/Trendsor/kandinsky-infrastructure">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-infrastructure&theme=gruvbox" alt="Dynamic Stats for kandinsky-infrastructure">
-  </a>
-</p>
-
----
-
-### Kandinsky Exchange API
-<p align="left">
-  <a href="https://github.com/Trendsor/kandinsky-exchange-api">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-exchange-api&theme=onedark" alt="Dynamic Stats for kandinsky-exchange-api">
-  </a>
-</p>
-
----
-
-### Kandinsky Trading Engine
-<p align="left">
-  <a href="https://github.com/Trendsor/kandinsky-trading-engine">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-trading-engine&theme=cobalt" alt="Dynamic Stats for kandinsky-trading-engine">
-  </a>
-</p>
-
----
-
-### Kandinsky Data Management
-<p align="left">
-  <a href="https://github.com/Trendsor/kandinsky-data-management">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-data-management&theme=solarized-light" alt="Dynamic Stats for kandinsky-data-management">
-  </a>
-</p>
+This design keeps everything compact and visually appealing. Let me know if you'd like further tweaks!
