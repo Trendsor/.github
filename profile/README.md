@@ -1,4 +1,5 @@
 ## Trendsor: Riding the Waves of Time Series One Trend at a Time 🌊⏳
+
 Welcome to **Trendsor**! This is where time series data stops being mysterious and starts making sense (most of the time, anyway). If you've ever wondered how to predict tomorrow's stock price, the likelihood of a rainy day, or just why your smart fridge has opinions on your grocery habits – you’re in the right place!
 
 **What’s in the Trendsor Treasure Trove?**
@@ -10,10 +11,58 @@ Welcome to **Trendsor**! This is where time series data stops being mysterious a
 **Why Trendsor?**
 Because time flies, and so do trends. At Trendsor, we believe in making time series data fun, fabulous, and a little less frightening. Whether you're here for serious forecasting or just a temporal laugh, we've got your back!
 
-## Main projects
+---
 
+## Main Projects
+
+### Kandinsky Simulator
 <p align="left">
   <a href="https://github.com/Trendsor/kandinsky-simulator">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-simulator&theme=radical" alt="Dynamic Stats for kandinsky-simulator">
+  </a>
+</p>
+
+---
+
+### Kandinsky Frontend
+<p align="left">
+  <a href="https://github.com/Trendsor/kandinsky-frontend">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-frontend&theme=tokyonight" alt="Dynamic Stats for kandinsky-frontend">
+  </a>
+</p>
+
+---
+
+### Kandinsky Infrastructure
+<p align="left">
+  <a href="https://github.com/Trendsor/kandinsky-infrastructure">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-infrastructure&theme=gruvbox" alt="Dynamic Stats for kandinsky-infrastructure">
+  </a>
+</p>
+
+---
+
+### Kandinsky Exchange API
+<p align="left">
+  <a href="https://github.com/Trendsor/kandinsky-exchange-api">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-exchange-api&theme=onedark" alt="Dynamic Stats for kandinsky-exchange-api">
+  </a>
+</p>
+
+---
+
+### Kandinsky Trading Engine
+<p align="left">
+  <a href="https://github.com/Trendsor/kandinsky-trading-engine">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-trading-engine&theme=cobalt" alt="Dynamic Stats for kandinsky-trading-engine">
+  </a>
+</p>
+
+---
+
+### Kandinsky Data Management
+<p align="left">
+  <a href="https://github.com/Trendsor/kandinsky-data-management">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Trendsor&repo=kandinsky-data-management&theme=solarized-light" alt="Dynamic Stats for kandinsky-data-management">
   </a>
 </p>
