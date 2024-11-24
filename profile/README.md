@@ -13,5 +13,7 @@ Because time flies, and so do trends. At Trendsor, we believe in making time ser
 ## Main projects
 
 <p align="left">
-  <a href=""><img width="400" src="" alt="Could not find the repo"></a>
-    </p>
+  <a href="https://github.com/your-username/kandinsky-simulator">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=your-username&repo=kandinsky-simulator&show_icons=true&theme=radical" alt="Stats for kandinsky-simulator">
+  </a>
+</p>
