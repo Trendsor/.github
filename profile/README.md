@@ -39,5 +39,3 @@ Here’s the **Kandinsky** suite of projects, all working together to tackle tim
    If the table overflows, it will wrap in most Markdown renderers (e.g., GitHub).
 
 ---
-
-This design keeps everything compact and visually appealing. Let me know if you'd like further tweaks!
