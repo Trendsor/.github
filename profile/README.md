@@ -16,7 +16,7 @@ Because time flies, and so do trends. At Trendsor, we believe in making time ser
 ## Main Projects
 
 ### Kandinsky
-Here’s the **Kandinsky** suite of projects. The propject rises as a consequence from one of my first stock price prediction projects: [LSTM-XGBoost-Hybrid-Forecasting](https://github.com/Hupperich-Manuel/LSTM-XGBoost-Hybrid-Forecasting). An extensive study and real-life application opf the models, led to a huge acceptance amongst data enthusiasts all around the globe. Therefore, willing to continue the knowledge sharing and eager to provide **europes first open source trading-bot** I decided to take this road.
+Here’s the **Kandinsky** suite of projects. The propject rises as a consequence from one of my first stock price prediction projects: [LSTM-XGBoost-Hybrid-Forecasting](https://github.com/Hupperich-Manuel/LSTM-XGBoost-Hybrid-Forecasting). An extensive study and real-life application opf the models, led to a huge acceptance amongst data enthusiasts all around the globe. Therefore, willing to continue the knowledge sharing and eager to provide detailed steps on how to build your end-to-end pipeline I decided to take this road.
 
 This project should allow you to have the necessary code to deploy a functional end-to-end trading bot on the cloud: covering aspects as models, infrastructure or even monitoring services, aiming to provide a best possible foundation to then truncate it on your preference.
 
